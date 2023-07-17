@@ -1,0 +1,25 @@
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 5vh;
+}
+
+.sub-cont1 {
+  height: 70vh;
+}
+
+.sub-cont2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20vh;
+  list-style: none;
+}
+
+.main-image {
+  height: 55vh;
+}
